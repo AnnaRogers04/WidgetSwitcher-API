@@ -30,3 +30,7 @@ README.md                ← you're reading it
 ## Running locally
 
 Just open `GreedyPiggiesAPI.html` in your browser. No setup needed.
+
+## AI Declaration
+
+I used Claude (by Anthropic) to help build this documentation site. All the technical content is based on my actual implementation, Claude interpreted my exported Blueprint node data and screenshots to produce the documentation, but the underlying system and design decisions are my own work.
