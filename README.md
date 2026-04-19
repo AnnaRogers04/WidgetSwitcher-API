@@ -4,7 +4,7 @@ API documentation for the Widget Switcher system I built for Greedy Piggies. It'
 
 The whole thing runs through a Player Controller called `PC_MainInstance` and uses an enum (`E_MenuState`) to keep track of which menu is currently showing.
 
-**Live site:**  [https://annarogers04.github.io/Greedy-Piggies-API/](https://annarogers04.github.io/Greedy-Piggies-API/)
+**Live site:** [https://annarogers04.github.io/Greedy-Piggies-API/](https://annarogers04.github.io/Greedy-Piggies-API/)
 
 ## What's in the docs
 
